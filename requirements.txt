@@ -1,0 +1,4 @@
+argparse==1.2.1
+-e git+git@github.com:alanfranz/duplicity.git@ae80cbff3eb4d623bfbc736b0db4fa331203ddc1#egg=duplicity-dev
+lockfile==0.9.1
+wsgiref==0.1.2
