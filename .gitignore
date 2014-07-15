@@ -1,0 +1,4 @@
+build
+duplicity.egg-info/
+duplicity/_librsync.so
+
